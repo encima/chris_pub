@@ -1,0 +1,29 @@
+{
+    "contact": {
+        "firstName": "Christopher",
+        "familyName": "Gwilliams",
+        "title": "Dr",
+        "profession": "Engineer/Architect/Consultant/Buffoon",
+        "location": "Helsinki, Finland",
+        "emails": [
+            "chris@gwillia.ms",
+            "chris@womenplusplus.ch",
+            "ohhey@chris.pub"
+        ],
+        "phones": [
+            "+358444915385",
+            "+447725117838"
+        ],
+        "socials": {
+            "github": "https://github.com/encima",
+            "linkedin": "https://linkedin.com/in/christopher-gwilliams-51322924/",
+            "twitter": "https://twitter.com/encima27",
+            "lastfm": "https://www.last.fm/user/encima",
+            "letterboxd": "https://letterboxd.com/encima/"
+        },
+        "sites": {
+            "personal": "https://chris.pub",
+            "blog": "https://blog.chris.pub"
+        }
+    }
+}
